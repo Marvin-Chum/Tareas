@@ -5,7 +5,7 @@
 
 - Declarar variable **mes** con valor **10**
 
-- Pedirle al usuario que ingrese el mes en formato numérico con ejemplos
+- Pedirle al usuario que ingrese el mes en formato numérico, dar un ejemplo de como hacerlo
 
 - Reasignar la variable **mes** con el valor ingresado por el usuario en la misma línea
 
